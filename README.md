@@ -1,7 +1,7 @@
 
 ## Development server
 
-git clone `https://github.com/agvsw/fe-calculator.git`
+git clone `https://github.com/agvsw/backend-calculator.git`
 
 cd `backend-calculator`
 
